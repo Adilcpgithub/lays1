@@ -1,0 +1,237 @@
+
+*{
+        padding: 0px;
+        margin: 0px;
+}
+
+.maincontainer{
+        width:1170px;
+        height:3990px;
+        background-color: rgba(251,181,23,255);
+       padding-left: 88px;
+       padding-top: 30px;
+       padding-right: 88px;
+}
+
+.header{
+       
+        height: 100px;
+        width: 1173px;
+        
+        background-color: #ffe600;
+        margin-bottom: 20px;
+}
+
+.logodiv{
+        height: 100%;
+        width: 10%;
+        float: left;
+        
+}
+.namediv{
+        height: 100%;
+        width: 90%;
+       
+        padding-left:205px;
+       
+        
+}
+.logo{
+        height: 94px;
+        margin-left: 15px;
+        
+}
+
+.name{
+        font-family: "MarkOT-Bold", sans-serif;
+        list-style-type: none;
+        font-weight: normal;
+        padding: 10px;
+        margin-left: 15px;
+        margin-top: 26px;
+        float: left;
+        border-radius: 1cm;
+        
+}
+.name1{
+        font-family: "MarkOT-Bold", sans-serif;
+        list-style-type: none;
+        font-weight: normal;
+        padding: 10px;
+        margin-left: 15px;
+        margin-top: 26px;
+        float: left;
+        border: 1px solid black;
+        float: left;
+}
+.name:hover,.name1:hover{
+    color: white;   
+    background-color: rgb(201, 8, 8);
+
+}
+.ione{
+        height: 420px;
+        width: 1173px;
+        margin-bottom: 20px;
+}
+.secondimg{
+        
+        height: 520px;
+        width: 1173px;
+       
+        display: flex; 
+        
+       
+       
+        
+}
+.secondhalf{
+        
+        width: 1173px;
+        height: 260px;
+        display: flex;
+        z-index: 1;
+        
+       
+
+}
+.treephoto{
+            width: 1174px;
+            height: 654px;
+           margin-top: 20px;
+           margin-bottom: 20px;
+}
+.forphoto{
+        width: 1174;
+        height: 260px;
+        margin-bottom: 20px;
+}
+.vphot{
+        width: 1174px;
+        height: 632px;
+        margin-bottom: 20px;
+}
+.vimg{
+        width: 1174px;
+        height: 632px;
+}
+.five{
+        width: 1174px;
+        height: 446px;
+        display: flex; 
+        
+}
+.fivehalf{
+        width: 1174px;
+        height: 432px;
+        margin-bottom: 20px;
+     
+}
+.last{
+        width: 1174px;
+        height: 154px;
+        margin-bottom: 20px;
+
+}
+.lastone{
+        width: 1050px;
+        height: 185px;
+        margin-bottom: 20px;
+        padding-left: 211px;
+        padding-top: 10px;
+}
+.logotwo{
+        height: 94px;
+        margin-left: 323px;
+        margin-top: 20px;
+}
+.lastname{
+        padding: 6px;
+    text-decoration: none;
+    font-size: 17px;
+    color: #000;
+    position: relative;
+    line-height: 1.2;
+    display: block;
+    font-family: "MarkOT", sans-serif;
+    font-weight: normal;
+    letter-spacing: -0.05em;
+    
+
+}
+.p1{
+        color: #000;
+    font-size: 12px;
+    margin: 11px 0;
+    text-align: center;
+    margin-left: -438px;
+}
+.pa{
+        margin-left: 111px;
+}
+ 
+.divb{
+      
+       
+        margin-left: 70px;
+    
+        background-color: rgb(3, 23, 41);
+      
+       width: 100px;
+       float: left;
+}
+.lastlast{
+        list-style: none;
+        display: inline-block;
+        vertical-align: top;
+        margin: 0 13px;
+        text-decoration-line: none;
+        
+        font-family: "MarkOT", sans-serif;
+    font-weight: normal;
+    letter-spacing: -0.05em;
+    border: 0px solid;
+    padding:10px
+        
+}
+.lastlast:hover{
+        color:azure;
+        background-color: rgb(255, 5, 5);
+}
+.search{
+        height: 20px;
+}
+.botton{
+        margin-left: 10px;
+        margin-top: 10px;
+        
+}
+.laysone{
+        margin-left: 40px;
+        height: 100%;
+        width: 50%;
+        background-color: bisque;
+}.layslays{
+        margin-left: 30px;
+        height: 200px;
+        width: 100px;
+        background-color: blue;
+        
+}
+.aa{
+        height:50px;
+        width:50px;
+        color: aqua;
+        z-index: 1;
+}
+     
+iclass{
+        height: 150px;
+        width: 250px;
+        position: relative;
+    overflow: hidden;
+}
+
+
+
+
